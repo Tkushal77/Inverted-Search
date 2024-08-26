@@ -1,0 +1,34 @@
+[1;34m#[0]
+[1;34mword is [1;31mare             [1;34m: filecount is 1 file/s : [1;34mfile is file1.txt       : word count is 1   [0m
+
+[1;34m#[7]
+[1;34mword is [1;31mHi              [1;34m: filecount is 2 file/s : [1;34mfile is file1.txt       : word count is 6   [0m
+                                                  [1;34mfile is file2.txt       : word count is 1   [0m
+
+[1;34mword is [1;31mhello           [1;34m: filecount is 1 file/s : [1;34mfile is file1.txt       : word count is 1   [0m
+
+[1;34mword is [1;31mhow             [1;34m: filecount is 1 file/s : [1;34mfile is file1.txt       : word count is 1   [0m
+
+[1;34mword is [1;31mHello           [1;34m: filecount is 2 file/s : [1;34mfile is file1.txt       : word count is 2   [0m
+                                                  [1;34mfile is file2.txt       : word count is 1   [0m
+
+[1;34m#[8]
+[1;34mword is [1;31mis              [1;34m: filecount is 1 file/s : [1;34mfile is file2.txt       : word count is 1   [0m
+
+[1;34mword is [1;31minverted        [1;34m: filecount is 1 file/s : [1;34mfile is file2.txt       : word count is 1   [0m
+
+[1;34m#[15]
+[1;34mword is [1;31mproject.        [1;34m: filecount is 1 file/s : [1;34mfile is file2.txt       : word count is 1   [0m
+
+[1;34m#[18]
+[1;34mword is [1;31msearch          [1;34m: filecount is 1 file/s : [1;34mfile is file2.txt       : word count is 1   [0m
+
+[1;34m#[19]
+[1;34mword is [1;31mthis            [1;34m: filecount is 1 file/s : [1;34mfile is file2.txt       : word count is 1   [0m
+
+[1;34m#[24]
+[1;34mword is [1;31myou             [1;34m: filecount is 1 file/s : [1;34mfile is file1.txt       : word count is 1   [0m
+
+[1;34m#[26]
+[1;34mword is [1;31m?               [1;34m: filecount is 1 file/s : [1;34mfile is file1.txt       : word count is 1   [0m
+
